@@ -1,3 +1,12 @@
-This notebook has all my kaggle works in it. As I want to be more experienced in AI/ML, I've been spending some of my 
-free time on Kaggle and playing around with datasets, and I've been learning how to preprocess data, how to scale it, 
-and how to apply a machine learning model and test it against metrics. This is a set of my work. I hope you enjoy! 
+This repository contains my work to learn and practice ML. 
+
+During these holidays, I have taken the initiative, to rediscover Machine Learning, and explore the 
+fundamentals, starting from the basics of Python and Numpy and all the way to Deep Learning. I will 
+rediscover scikit-learn and Keras as well as re-learn the fundamentals such as Bias/Variance, 
+ML debugging, and methods of statistical learning. 
+
+Why am I doing this? 
+
+Mainly to just rediscover the foundations and be crystal clear on them. This will be one of many 
+things that I plan on doing. 
+
